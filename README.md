@@ -4,6 +4,10 @@ This repository contains all localizations for FancyMenu and a template (in Engl
 # "I want to help!"
 Great! It's really easy, just download/copy the [template](https://github.com/Keksuccino/FancyMenu-Translations/blob/main/template/en_us.txt) from this repository and start translating!
 
+When you're done translating the template, you can upload it to a text hoster like [Ghostbin](https://ghostbin.com/) and [open a new issue](https://github.com/Keksuccino/FancyMenu-Translations/issues) with the link to the file and some informations about what language it is.
+
+Thank you very much for helping to translate this mod!
+
 ### "What should I translate?"
 Most of the time, it's simply translating everything **after** the **first** equals sign (=).
 
@@ -36,6 +40,3 @@ If you find this code in a text line, it's most probably there because a line of
 
 You shouldn't remove these codes, just try to translate the normal part of the text.<br>
 If your translated version of the line is longer than the original, you may need to manually add more `%n%` codes.
-
-### "I'm done translating, how can I give it to you?"
-If your 
