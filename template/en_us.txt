@@ -10,10 +10,8 @@ helper.button.createlayout = Create Layout
 helper.menuinfo.identifier = Menu Identifier
 
 helper.buttoninfo.idnotfound = <id not found>
-helper.buttoninfo.keynotfound = <button has no key>
 helper.buttoninfo
 helper.buttoninfo.id = ID
-helper.buttoninfo.key = Key
 helper.buttoninfo.labelwidth = Label Width
 
 helper.creator.menu.add = Add
