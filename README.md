@@ -45,4 +45,4 @@ If your translated version of the line is longer than the original, you may need
 Placeholders (`{}`) get replaced by real values later, so please don't remove them and don't add new ones. The number of placeholders needs to stay the same!
 
 For example, `Mod Version: {}` will later look something like `Mod Version: 2.0.6`.<br>
-Try to keep the "order" of texts containing placeholders, because `{} Mod Version:` will look a bit wrong later, you know?
+Try to keep the word order of texts containing placeholders, because `{} Mod Version:` will look a bit wrong later, you know?
