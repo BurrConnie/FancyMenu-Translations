@@ -1229,6 +1229,10 @@ fancymenu.helper.editor.items.playerentity.rotation.follow_mouse.desc = If enabl
 fancymenu.helper.editor.items.playerentity.rotation.custom = Set Player Rotation
 fancymenu.helper.editor.items.playerentity.rotation.custom.desc = Set the player head and body rotation.
 fancymenu.helper.editor.items.playerentity.rotation.custom.disabled = §cYou can't do this while%n%§c"Follow Mouse" is enabled.
+fancymenu.helper.editor.items.playerentity.rotation.bodyx = Body X Rotation: {}
+fancymenu.helper.editor.items.playerentity.rotation.bodyy = Body Y Rotation: {}
+fancymenu.helper.editor.items.playerentity.rotation.headx = Head X Rotation: {}
+fancymenu.helper.editor.items.playerentity.rotation.heady = Head Y Rotation: {}
 
 fancymenu.helper.editor.items.playerentity.slim.off = Slim Skin: §cOff
 fancymenu.helper.editor.items.playerentity.slim.on = Slim Skin: §aOn
@@ -1254,6 +1258,6 @@ fancymenu.helper.editor.items.playerentity.baby.off = Is Baby: §cOff
 fancymenu.helper.editor.items.playerentity.baby.on = Is Baby: §aOn
 fancymenu.helper.editor.items.playerentity.baby.desc = If the player should be a baby.
 
-
+fancymenu.guicomponents.cancel = Cancel
 
 
